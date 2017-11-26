@@ -77,3 +77,5 @@ C:\Users\nimam\OneDrive\Documents\GitHub\mdh-dva313-17\PaymentGateway\PaymentGat
 C:\Users\nimam\OneDrive\Documents\GitHub\mdh-dva313-17\PaymentGateway\PaymentGateway\obj\Debug\PaymentGateway.csproj.CoreCompileInputs.cache
 C:\Users\nimam\OneDrive\Documents\GitHub\mdh-dva313-17\PaymentGateway\PaymentGateway\obj\Debug\PaymentGateway.dll
 C:\Users\nimam\OneDrive\Documents\GitHub\mdh-dva313-17\PaymentGateway\PaymentGateway\obj\Debug\PaymentGateway.pdb
+C:\Users\nimam\OneDrive\Documents\GitHub\mdh-dva313-17\PaymentGateway\PaymentGateway\obj\Debug\PaymentGateway.Migrations.migracija1.resources
+C:\Users\nimam\OneDrive\Documents\GitHub\mdh-dva313-17\PaymentGateway\PaymentGateway\obj\Debug\PaymentGateway.csproj.GenerateResource.Cache
